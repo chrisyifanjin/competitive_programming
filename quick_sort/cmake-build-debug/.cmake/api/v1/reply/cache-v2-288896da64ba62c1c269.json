@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug"
+			"value" : "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yifanjin/Desktop/competitive programming/quick_sort"
+			"value" : "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug"
+			"value" : "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug"
 		},
 		{
 			"name" : "quick_sort_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yifanjin/Desktop/competitive programming/quick_sort"
+			"value" : "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort"
 		}
 	],
 	"kind" : "cache",

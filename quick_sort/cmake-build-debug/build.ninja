@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/yifanjin/Desktop/competitive$ programming/quick_sort/cmake-build-debug/
+cmake_ninja_workdir = /Users/yifanjin/Desktop/competitive$ programming/competitive_programming/quick_sort/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target quick_sort
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = /Users/yifanjin/Desktop/competitive$ programming/quick_sor
 
 build cmake_object_order_depends_target_quick_sort: phony || CMakeFiles/quick_sort.dir
 
-build CMakeFiles/quick_sort.dir/main.cpp.o: CXX_COMPILER__quick_sort_Debug /Users/yifanjin/Desktop/competitive$ programming/quick_sort/main.cpp || cmake_object_order_depends_target_quick_sort
+build CMakeFiles/quick_sort.dir/main.cpp.o: CXX_COMPILER__quick_sort_Debug /Users/yifanjin/Desktop/competitive$ programming/competitive_programming/quick_sort/main.cpp || cmake_object_order_depends_target_quick_sort
   DEP_FILE = CMakeFiles/quick_sort.dir/main.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/quick_sort.dir
@@ -79,7 +79,7 @@ build quick_sort: CXX_EXECUTABLE_LINKER__quick_sort_Debug CMakeFiles/quick_sort.
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -90,7 +90,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/yifanjin/Desktop/competitive programming/quick_sort" -B"/Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug"
+  COMMAND = cd "/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort" -B"/Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -106,7 +106,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/yifanjin/Desktop/competitive programming/quick_sort/cmake-build-debug
+# Folder: /Users/yifanjin/Desktop/competitive programming/competitive_programming/quick_sort/cmake-build-debug
 
 build all: phony quick_sort
 
